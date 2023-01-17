@@ -1,13 +1,34 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Movie Cards Library
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+# Contexto
+Essa aplicação representa um mini-arquivo de filmes, com cards que trazem informações sobre os mesmos. Também é possível adicionar novos títulos.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+### Habilidades trabalhadas
+* Uso de JSX no React.
+* Uso o ReactDOM.render para renderizar elementos da página web.
+* Criação de componentes no React. 
+* Uso de props e composição de componentes.
+* Uso de PropTypes para checar as props de um componente.
+
+
+## Técnologias usadas
+
+Front-end:
+> Desenvolvido usando: React, CSS3, HTML5, Javascript ES6.
+
+
+## Instalando Dependências
+
+> Frontend
+```bash
+cd src/
+npm install
+``` 
+## Executando a aplicação
+
+* Acesse a página via *GitHub Pages* clicando [aqui,](https://raffrasson.github.io/Movie_Cards_Library/)
+* Ou rode localmente, após instalar as dependências, executando:
+
+```bash
+npm start
+``` 
