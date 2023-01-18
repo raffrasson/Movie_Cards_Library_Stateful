@@ -9,9 +9,10 @@
     "minimist": "1.2.3",
     "react": "16.14.0",
     "react-dom": "16.14.0",
+    "react-router-dom": "^6.6.2",
     "react-scripts": "3.4.0"
   },
-  "homepage": "https://raffrasson.github.io/Movie_Cards_Library/",
+  "homepage": "https://raffrasson.github.io/Movie_Cards_Library_Stateful/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
