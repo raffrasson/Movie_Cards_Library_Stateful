@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Movie_Cards_Library/static/css/main.5d58c8a2.chunk.css",
-    "main.js": "/Movie_Cards_Library/static/js/main.e2a8e5d2.chunk.js",
-    "main.js.map": "/Movie_Cards_Library/static/js/main.e2a8e5d2.chunk.js.map",
-    "runtime-main.js": "/Movie_Cards_Library/static/js/runtime-main.fd6213c2.js",
-    "runtime-main.js.map": "/Movie_Cards_Library/static/js/runtime-main.fd6213c2.js.map",
-    "static/js/2.9de1bedc.chunk.js": "/Movie_Cards_Library/static/js/2.9de1bedc.chunk.js",
-    "static/js/2.9de1bedc.chunk.js.map": "/Movie_Cards_Library/static/js/2.9de1bedc.chunk.js.map",
-    "index.html": "/Movie_Cards_Library/index.html",
-    "precache-manifest.a9d7ef2079bb336eaca88de3e8b32d11.js": "/Movie_Cards_Library/precache-manifest.a9d7ef2079bb336eaca88de3e8b32d11.js",
-    "service-worker.js": "/Movie_Cards_Library/service-worker.js",
-    "static/css/main.5d58c8a2.chunk.css.map": "/Movie_Cards_Library/static/css/main.5d58c8a2.chunk.css.map",
-    "static/js/2.9de1bedc.chunk.js.LICENSE.txt": "/Movie_Cards_Library/static/js/2.9de1bedc.chunk.js.LICENSE.txt"
+    "main.css": "/Movie_Cards_Library_Stateful/static/css/main.5d58c8a2.chunk.css",
+    "main.js": "/Movie_Cards_Library_Stateful/static/js/main.dcecdd43.chunk.js",
+    "main.js.map": "/Movie_Cards_Library_Stateful/static/js/main.dcecdd43.chunk.js.map",
+    "runtime-main.js": "/Movie_Cards_Library_Stateful/static/js/runtime-main.b6d3fa58.js",
+    "runtime-main.js.map": "/Movie_Cards_Library_Stateful/static/js/runtime-main.b6d3fa58.js.map",
+    "static/js/2.dea9aad5.chunk.js": "/Movie_Cards_Library_Stateful/static/js/2.dea9aad5.chunk.js",
+    "static/js/2.dea9aad5.chunk.js.map": "/Movie_Cards_Library_Stateful/static/js/2.dea9aad5.chunk.js.map",
+    "index.html": "/Movie_Cards_Library_Stateful/index.html",
+    "precache-manifest.c11d192a79bfae9e561b88b41ca9eacb.js": "/Movie_Cards_Library_Stateful/precache-manifest.c11d192a79bfae9e561b88b41ca9eacb.js",
+    "service-worker.js": "/Movie_Cards_Library_Stateful/service-worker.js",
+    "static/css/main.5d58c8a2.chunk.css.map": "/Movie_Cards_Library_Stateful/static/css/main.5d58c8a2.chunk.css.map",
+    "static/js/2.dea9aad5.chunk.js.LICENSE.txt": "/Movie_Cards_Library_Stateful/static/js/2.dea9aad5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd6213c2.js",
-    "static/js/2.9de1bedc.chunk.js",
+    "static/js/runtime-main.b6d3fa58.js",
+    "static/js/2.dea9aad5.chunk.js",
     "static/css/main.5d58c8a2.chunk.css",
-    "static/js/main.e2a8e5d2.chunk.js"
+    "static/js/main.dcecdd43.chunk.js"
   ]
 }
