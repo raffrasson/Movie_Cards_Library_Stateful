@@ -26,7 +26,7 @@ npm install
 ``` 
 ## Executando a aplicação
 
-* Acesse a página via *GitHub Pages* clicando [aqui,](https://raffrasson.github.io/Movie_Cards_Library/)
+* Acesse a página via *GitHub Pages* clicando [aqui,](https://raffrasson.github.io/Movie_Cards_Library_Stateful/)
 * Ou rode localmente, após instalar as dependências, executando:
 
 ```bash
